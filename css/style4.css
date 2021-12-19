@@ -1,0 +1,665 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+
+
+
+.first, .first2, .first3, .first4{
+   border:0.5px solid  white;
+   color:white;
+   
+  
+}
+
+.first2{
+    text-align: center;
+
+}
+.first3{
+    text-align: center;
+}
+.first3 a{
+    padding:0.6rem;
+}
+.first4{
+    text-align: center;
+}
+.first4 a{
+    padding:0.5rem;
+    
+}
+.navbar-nav{
+    margin-left:auto; 
+    color:white;
+}
+body{
+   
+ 
+    
+  
+     background-size:100% 700px;
+    background-repeat:no-repeat;
+    font-family: 'Fjalla One', sans-serif;
+    
+    
+   
+    
+
+
+}
+.firstrow{
+   
+    background-image: url(../images/back.jpg);
+ 
+    background-size:100% 700px;
+    
+    
+}
+.back{
+    background-color: rgba(0, 0, 0, 0.192);
+    
+}
+.fa-arrow-down{
+    margin-bottom:121px;
+}
+
+.nav-link{
+    color:white;
+    
+}
+.navbar-brand , .active {
+    color:yellow;
+}
+.arrow{
+    color:yellow ;
+    text-align: center;
+    margin-top:-211px;
+    margin-bottom:-112px;
+    
+}
+.heading h1{
+    font-size:170px;
+    margin-top:150px ;
+   
+    color:white;
+    opacity:0.1;
+    text-align: center;
+   
+}
+.head h2{
+    color:white;
+    font-size:58px;
+    
+    margin-top:-153px;
+    text-align: center;
+    
+
+}
+.head h3
+{
+    font-size:17px;
+    letter-spacing: 19px;
+    color:white;
+    text-align: center;
+    margin-bottom:226px;
+    margin-top:-10px;
+}
+.g1{
+    color:yellow;
+}
+.boxx{
+  background-color:rgba(255, 255, 0, 0.37);
+  width:450px;
+  height:300px;
+  margin-left:-12px
+}
+.box1{
+    height:300px;
+    background-image:url('../images/weld1.jpg');
+    margin-left:153px;
+    width:450px;
+    margin-top: 4px;
+}
+.box2{
+    height:300px;
+    background-image:url('../images/weld2.jpg');
+    margin-left:104px;
+    width:450px;
+}
+
+.box3{
+    height:300px;
+    background-image:url('../images/weld3.jpg');
+    margin-left:104px;
+    width:450px;
+}
+
+.row2{
+    margin-top:-40px;
+    margin-left:174px;
+}
+.box4{
+    height:174px;
+    background-color:white;
+    width:374px;
+    text-align: center;
+    padding-top:40px;
+    
+
+}
+.box5{
+    height:174px;
+    background-color:white;
+    margin-left:188px;
+    width:374px;
+    text-align: center;
+    padding-top:40px;
+
+}
+.box6{
+    height:174px;
+    background-color:white;
+    margin-left:176px;
+    width:374px;
+    text-align: center;
+    padding-top:40px;
+
+}
+.heading2 h1{
+font-size:150px;
+margin-top:150px ;
+text-align: center;
+
+opacity:0.1;
+}
+.head2 h2{
+    
+    font-size:53px;
+    text-align: center;
+    margin-top:-133px;
+}
+.head2 h3{
+    font-size:15px;
+    letter-spacing: 12px;
+  
+    text-align: center;
+    margin-top:23px;
+}
+.line{
+    width:77px;
+    color:rgb(110, 110, 22);
+    height:50px;
+    opacity:5;
+    margin-left:900px;
+}
+.lr{
+    margin-top:125px;
+}
+
+.r1{
+    text-align: center;
+}
+.r1 h1{
+    margin-left:-91px;
+    font-size:49px;
+    opacity:0.1;
+    
+}
+.r2{
+    margin-top:-21px;
+    text-align: center;
+    
+}
+.r2 h1{
+    margin-left:-111px;
+    font-size:49px;
+    opacity:0.1;
+  
+}
+.r3{
+    margin-top:-25px;
+    text-align: center;
+}
+.r3 h1{
+    margin-left:-147px;
+    font-size:49px;
+    opacity:0.1;
+   
+}
+.n1{
+    margin-top:-37px;
+    
+    width:102px;
+    height:100px;
+}
+.rh1{
+    margin-top:50px;
+    
+}
+.rh2{
+    margin-top:30px;
+     
+}
+.rh3{
+    margin-top:25px;
+    
+}
+.n2{
+    margin-top:-37px;
+    
+    width:140px;
+    height:135px;
+}
+.n3{
+    margin-top:-53px;
+    
+    width:160px;
+    height:150px;
+}
+.secondrow{
+    background-image: url('../images/weld4.jpg');
+    background-repeat:no-repeat;
+    background-size:100% 754px;
+}
+.p3{
+    background-color: rgb(0 0 0 / 77%);
+    margin-top: 269px;
+    
+}
+.p3 h1{
+    padding-top:150px;
+   text-align: center;
+   font-size:159px;
+    opacity:0.03333;
+    color:white;
+
+}
+.p3 h2{
+    color:white;
+    font-size:69px;
+    margin-top:-126px;
+    text-align: center;
+}
+.p3 h3{
+    font-size:15px;
+    margin-top:-9px;
+    text-align: center;
+    letter-spacing: 14px;
+    color:white;
+}
+.type1{
+    color:white;
+    font-size:18px;
+    margin-right:152px;
+}
+.b1{
+    margin-top:112px;
+    margin-bottom:126px;
+}
+.mobile h2{
+    margin-top:0px;
+    font-size:38px;
+    margin-left:-94px;
+}
+.mobile h4{
+    
+    color:white;
+    margin-left:35px;
+    font-size:12px;
+    margin-right:14px;
+}
+.mobile h2{
+    margin-top:0px;
+    font-size:38px;
+    margin-left:-94px;
+}
+.mobile h4{
+    
+    color:white;
+    margin-left:35px;
+    font-size:12px;
+    margin-right:14px;
+}
+.steel h2{
+    margin-top:0px;
+    font-size:36px;
+    margin-left:15px;
+    margin-right:138px;
+}
+.steel h4{
+    
+    color:white;
+    margin-left:35px;
+    font-size:15px;
+    margin-right:170px;
+}
+.magnesium h2
+{
+    margin-top:170px;
+    font-size:38px; 
+    margin-left:-5px; 
+}
+.magnesium h4{
+    color:white;
+    margin-left:47px;
+    font-size:19px;
+    margin-right:14px;
+}
+.pipe h2
+{
+    margin-top:81px;
+    font-size:38px; 
+    margin-left:-154px; 
+}
+.pipe h4{
+    color:white;
+    
+    font-size:15px;
+    margin-right:129px;
+    margin-left:28px;
+}
+
+.gallery h1{
+    font-size:94px;
+    margin-top:220px ;
+    text-align:center;
+    
+    opacity:0.1;
+}
+.c5{
+margin-top:40px;
+width:84%;
+color:white;
+}
+
+.gal1 h2{
+    text-align:center;
+    margin-top:-102px;
+    font-size:63px;
+}
+.gal1 h3{
+    font-size:17px;
+    margin-top:-15px;
+    text-align: center;
+    letter-spacing: 12px; 
+}
+.img1{
+    margin-left:-12px;
+    width:107%;
+    height:100%;
+}
+.gall1{
+    margin-top:15px;
+    margin-right: 74px;
+    margin-left:47px;
+}
+.gall1 h4{
+    margin-top:15px;
+    font-size:15px;
+}
+.gb1{
+    margin-top:83px;
+
+}
+.g2{
+color:dimgray;
+}
+.img2{
+    margin-left:-12px;
+    width:106%;
+    height:94%;
+}
+.galrow2{
+    height:100vh;
+}
+.img3{
+    margin-left:-12px;
+    width:107%;
+    height:381px;
+}
+.img4{
+    
+    margin-left:-12px;
+    width:103%;
+    height:381px;
+}
+
+.gall2{
+    
+    height:381px;
+}
+.fifth{
+    background-color: rgba(5, 5, 5, 0.527);
+}
+.fourth{
+   background-image: url('../images/background.jpg');
+   background-repeat:no-repeat;
+   background-size:100% 60vh;
+}
+
+.two h1 {
+    text-align:center;
+    margin-top:74px;
+    margin-bottom:74px;
+}
+.two h4{
+    text-align:center;
+    margin-top:-63px;
+    margin-bottom:64px;
+    color:white;
+    font-size:16px;
+}
+.blog h1{
+    font-size:150px;
+margin-top:150px ;
+text-align:center;
+
+opacity:0.1;
+
+}
+
+.blog h2{
+    font-size:60px;
+    margin-top:-127px ;
+text-align:center;
+}
+.blog h3{
+    font-size:17px;
+    margin-top:-4px;
+    text-align: center;
+    letter-spacing: 11px; 
+}
+.car{
+    margin-right:70px;
+    margin-left:70px;
+}
+.cimg1{
+    height:400px;
+}
+.card1 h4{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.cb1{
+    margin-top:22px;
+}
+.cb2{
+    margin-top:50px;
+}
+.cb3{
+    margin-top:50px;
+}
+.cimg2{
+    height:332px;
+    width:106%;
+} 
+.card2{
+    margin-top:30px;
+}
+.blog1{
+    margin-top:70px;
+}
+.row22 {
+margin-top:25px;
+}
+.off{
+    margin-top:160px;
+}
+.office {
+    text-align: center;
+    
+} 
+.office h5{
+    font-size:21px;
+    margin-left:200px;
+    margin-right:200px;
+    
+}
+.office h1{
+    margin-top:21px;
+    font-size:40px;
+}
+
+.bor{
+    margin-left:200px;
+    margin-right:200px;
+    text-align: center;
+    margin-top:50px;
+    font-size:17px;
+    height:40px;
+    padding-top:9px;
+    margin-bottom:86px;
+}
+.fa-building ,.fa-paper-plane, .fa-cog{
+    margin-top:200px;  
+    color:rgb(179, 172, 172);
+    
+}
+.fa-clock ,.fa-heart, .fa-comments{
+    color:rgb(134, 122, 6);
+    padding-right:10px;
+}
+.ct{
+    font-size:31px;
+}
+.envelope1{
+font-size:83px;
+color:white;
+padding-top:98px;
+padding-left:151px;
+
+}
+.g3{
+    color:white;
+} 
+.eb{
+    margin-top:60px;
+    margin-bottom:60px;
+    
+}
+.eb1{
+    height: 35px;
+} 
+.email h1{
+    margin-top:111px;
+    font-size:33px;
+    text-align:center;
+}
+.email h6{
+   margin-left:102px;
+   margin-bottom:109px;
+}
+.email2{
+    font-size:30px;
+    margin-top:47px;
+}
+.still{
+    color: white;
+    margin-left: 20px;
+}
+.still h1{
+    margin-top: 132px;
+    margin-bottom: 20px;
+    margin-left: 51px;
+
+}
+.still h6{
+    font-size: 17px;
+    margin-top: 20px;
+    margin-right: 187px;
+    margin-left: 87px;
+}
+.socail{
+margin-left: 70px;
+margin-bottom:80px;
+}
+.socail i{
+    padding:12px;
+    color:white;
+    
+}
+.contact{
+    
+    margin-left: 20px;
+    color:white;
+    margin-left: 53px;
+    margin-right: 135px;
+   
+}
+.contact h1{
+    margin-top: 132px;
+    margin-bottom: 20px;
+   
+
+}
+.contact i{
+    color:yellow;
+}
+.pc1{
+    margin-top: 8px;
+    padding-top: 5px;
+    padding-bottom: 17px;
+}
+.sub{
+    color: white;
+    margin-left: 20px;
+}
+.sub h1{
+    margin-top: 132px;
+    margin-bottom: 20px;
+    margin-left: 51px;
+    margin-right: 51px;
+}
+.sub h5{
+    font-size: 17px;
+    margin-top: 20px;
+    margin-right: 187px;
+    margin-left: 54px;
+}
+.email33{
+    border: 1px solid white;
+    width: 345px;
+    height: 48px;
+    margin-left: 55px;
+    margin-top: 28px;
+}
+.email33 h1{
+    margin-top:11px;
+    font-size:20px;
+    margin-right:2px;
+    margin-left:10px;
+}
+.btn33{
+    border: 1px solid;
+    width: 196px;
+    height: 48px;
+    margin-top: 48px;
+    color:white;
+}
+.btn33 h1{
+    margin-top:14px;
+    font-size:18px;
+    margin-right:2px;
+    margin-left:47px;
+}

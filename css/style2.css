@@ -1,0 +1,58 @@
+body{
+   
+ 
+    background-image: url('../images/bottstrap2.png');
+    background-size:cover;
+  
+    height:100vh;
+    
+
+
+}
+
+.navbar-brand h1,h2{
+    font-size:10px;
+}
+.navbar-nav{
+    margin-left:auto; 
+}
+ .navbar-brand{
+    color:white;    
+}
+.rounded-class{
+    font-size:10px;
+}
+.logo{
+    height:30px;
+} 
+.navbar-nav li {
+    font-size:20px;
+   margin-right:17px;
+   
+
+}
+
+.title{
+    font-size:81px;
+    margin-top:40px;
+    color:white;
+}
+ .p1{
+    font-size:28px;
+    color:white;
+}
+.pro-version{
+    background: linear-gradient(to right, #0c9417 0%, #ff999900 100%);
+    
+}
+.main{
+    margin-left:110px;
+}
+.b1{
+    font-style:transparent;
+}
+.b2{
+    color:white;
+}.b1, .b2{
+    margin-top:20px;
+}
